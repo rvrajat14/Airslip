@@ -1,0 +1,6 @@
+framework module Pods_Airslip {
+  umbrella header "Pods-Airslip-umbrella.h"
+
+  export *
+  module * { export * }
+}
