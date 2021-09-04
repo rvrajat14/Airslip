@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Wagamama.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

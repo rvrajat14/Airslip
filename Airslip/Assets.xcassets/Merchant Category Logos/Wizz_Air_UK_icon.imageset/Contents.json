@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Wizz_Air_UK_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 992.13 123.79" style="enable-background:new 0 0 992.13 123.79;" xml:space="preserve">
+<g id="Page-1">
+	<g id="logo-black">
+		<g id="_x31_61130_x5F_CECOLogo_x5F_black">
+			<path id="Fill-1" style="fill-rule:evenodd;clip-rule:evenodd;fill:#1A1918;" d="M279.42,103.16
+				c-23.21,0-41.09-17.88-41.09-41.26c0-22.87,17.19-41.26,40.06-41.26c11.86,0,22.01,5.16,29.23,12.38l14.96-15.82
+				C311.74,6.71,296.44,0,278.56,0c-37.48,0-63.44,27.34-63.44,61.89s26.3,61.89,63.78,61.89c22.01,0,39.89-9.46,50.55-23.04
+				l-15.99-14.27C306.42,95.59,295.07,103.16,279.42,103.16"/>
+			<path id="Fill-2" style="fill-rule:evenodd;clip-rule:evenodd;fill:#1A1918;" d="M458.48,61.89c0-30.21-20-55.3-50.24-60.76
+				v21.53c16.1,5.39,27.04,20.95,27.04,39.22c0,22.69-16.85,41.26-39.54,41.26s-39.54-18.57-39.54-41.26
+				c0-18.25,10.91-33.8,26.97-39.2V1.15c-30.21,5.48-50.18,30.55-50.18,60.74c0,34.21,25.62,61.89,62.75,61.89
+				S458.48,96.11,458.48,61.89"/>
+			<polyline id="Fill-3" style="fill-rule:evenodd;clip-rule:evenodd;fill:#1A1918;" points="559.67,80.12 492.62,1.72 476.29,1.72 
+				476.29,122.07 499.5,122.07 499.5,43.67 566.55,122.07 582.89,122.07 582.89,1.72 559.67,1.72 559.67,80.12 			"/>
+			<path id="Fill-4" style="fill-rule:evenodd;clip-rule:evenodd;fill:#1A1918;" d="M666.26,0c-37.14,0-62.75,27.68-62.75,61.89
+				s25.62,61.89,62.75,61.89c37.14,0,62.75-27.68,62.75-61.89S703.4,0,666.26,0 M666.26,103.16c-22.69,0-39.54-18.57-39.54-41.26
+				s16.85-41.26,39.54-41.26c22.69,0,39.54,18.57,39.54,41.26S688.95,103.16,666.26,103.16"/>
+			<polyline id="Fill-5" style="fill-rule:evenodd;clip-rule:evenodd;fill:#1A1918;" points="927.84,121.88 927.84,75.45 885,1.76 
+				908.73,1.76 938.56,52.34 968.39,1.76 992.13,1.76 949.28,75.45 949.28,121.88 927.84,121.88 			"/>
+			<g id="Group-9">
+				<g id="Clip-7">
+				</g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="126.45" y="1.8" width="81.67" height="120.19">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="126.45" y="1.8" width="81.67" height="120.19" id="mask-2_4_">
+					<g style="filter:url(#Adobe_OpacityMaskFilter);">
+						<polygon id="path-1_4_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="0.06,123.79 0.06,0 104.09,0 
+							208.12,0 208.12,123.79 						"/>
+					</g>
+				</mask>
+				<polyline id="Fill-6" style="mask:url(#mask-2_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A1918;" points="127.03,1.8 
+					127.03,121.99 208.12,121.99 208.12,103.06 149.26,103.06 149.26,69.71 189.18,69.71 189.18,49.96 149.26,49.96 149.26,21.14 
+					204.53,21.14 204.53,1.8 126.45,1.8 				"/>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0" y="0" width="114.33" height="123.79">
+						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="0" y="0" width="114.33" height="123.79" id="mask-2_3_">
+					<g style="filter:url(#Adobe_OpacityMaskFilter_1_);">
+						<polygon id="path-1_3_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="0.06,123.79 0.06,0 104.09,0 
+							208.12,0 208.12,123.79 						"/>
+					</g>
+				</mask>
+				<path id="Fill-8" style="mask:url(#mask-2_3_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A1918;" d="M23.21,61.89
+					c0,23.38,17.88,41.26,41.09,41.26c15.64,0,26.99-7.57,34.04-16.68l15.99,14.27c-10.66,13.58-28.54,23.04-50.55,23.04
+					C26.31,123.79,0,96.45,0,61.89S25.96,0,63.44,0c17.88,0,33.18,6.71,44.01,17.19L92.5,33.01c-7.22-7.22-17.36-12.38-29.23-12.38
+					C40.4,20.63,23.21,39.03,23.21,61.89"/>
+			</g>
+			<polyline id="Fill-10" style="fill-rule:evenodd;clip-rule:evenodd;fill:#1A1918;" points="816.53,89.21 847,46.79 847,122 
+				869.38,122 869.38,1.64 852.14,1.64 809.2,62.23 766.26,1.64 749.03,1.64 749.03,122 771.73,122 771.73,46.79 801.87,89.21 
+				816.53,89.21 			"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Q-Park.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

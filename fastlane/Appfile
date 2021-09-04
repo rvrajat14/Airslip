@@ -1,0 +1,7 @@
+app_identifier("com.airslip.rnairslip") # The bundle identifier of your app
+
+itc_team_id("122288691") # App Store Connect Team ID
+team_id("CBMZUNS78C") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

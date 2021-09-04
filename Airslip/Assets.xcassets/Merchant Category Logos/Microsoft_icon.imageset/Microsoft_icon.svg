@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<path style="fill:#E8E8E8;" d="M50,0c27.61,0,50,22.39,50,50s-22.39,50-50,50S0,77.61,0,50S22.39,0,50,0"/>
+	<path style="fill:#FFFFFF;" d="M50,1c27.06,0,49,21.94,49,49S77.06,99,50,99S1,77.06,1,50S22.94,1,50,1"/>
+	<g>
+		<path style="fill:#F25022;" d="M22,22h26.64c0,8.88,0,17.76,0,26.64H22V22z"/>
+		<path style="fill:#7FBA00;" d="M51.36,22H78c0,8.88,0,17.76,0,26.64H51.36C51.36,39.76,51.36,30.88,51.36,22L51.36,22z"/>
+		<path style="fill:#01A4EF;" d="M22,51.36c8.88,0,17.76,0,26.64,0c0,8.88,0,17.76,0,26.64H22V51.36z"/>
+		<path style="fill:#FFB901;" d="M51.36,51.36c8.88,0,17.76,0,26.64,0V78H51.36C51.36,69.12,51.36,60.24,51.36,51.36L51.36,51.36z"
+			/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Pets_at_Home_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

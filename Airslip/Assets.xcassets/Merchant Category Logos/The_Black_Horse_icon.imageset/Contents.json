@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "The_Black_Horse_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

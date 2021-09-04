@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Home_Bargains_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

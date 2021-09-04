@@ -1,0 +1,2 @@
+swaggen generate https://airslip-dev-bank-transactions-api.azurewebsites.net/swagger/v1/swagger.json --destination bank_transactions --option name:BankTransactionsApi --option "authors:Graham Whitehouse"
+swaggen generate https://airslip-dev-identity-api.azurewebsites.net/swagger/v1/swagger.json --destination identity --option name:IdentityApi --option "authors:Graham Whitehouse"

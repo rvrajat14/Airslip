@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Cash_Plus_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100px" height="100px" viewBox="0 0 72.2 72.2" style="enable-background:new 0 0 72.2 72.2;" xml:space="preserve">
+<g>
+	<circle style="fill:#E8E8E8;" cx="36.1" cy="36.1" r="36.1"/>
+	<circle style="fill:#FFFFFF;" cx="36.1" cy="36.1" r="35.4"/>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-532.7268" y1="261.427" x2="-506.1414" y2="261.427" gradientTransform="matrix(1.5836 0 0 -1.5836 858.6356 466.4937)">
+			<stop  offset="0" style="stop-color:#8930FD"/>
+			<stop  offset="1" style="stop-color:#49CCF9"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_1_);" d="M15,49.6l7.8-6c4.1,5.4,8.5,7.9,13.4,7.9c4.9,0,9.1-2.5,13.1-7.8l7.9,5.8
+			c-5.7,7.7-12.8,11.8-20.9,11.8C28,61.3,20.9,57.3,15,49.6z"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-532.1478" y1="279.9032" x2="-506.6749" y2="279.9032" gradientTransform="matrix(1.5836 0 0 -1.5836 858.6356 466.4937)">
+			<stop  offset="0" style="stop-color:#FF02F0"/>
+			<stop  offset="1" style="stop-color:#FFC800"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_2_);" d="M36.2,23.8L22.3,35.7l-6.4-7.4l20.2-17.5l20.1,17.5l-6.4,7.4L36.2,23.8L36.2,23.8z"/>
+	</g>
+</g>
+</svg>

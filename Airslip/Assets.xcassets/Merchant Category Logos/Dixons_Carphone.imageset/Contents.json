@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Dixons_Carphone.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

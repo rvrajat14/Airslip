@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100px" height="100px" viewBox="0 0 66.7 66.7" style="enable-background:new 0 0 66.7 66.7;" xml:space="preserve">
+<g>
+	<circle style="fill:#E8E8E8;" cx="33.3" cy="33.3" r="33.3"/>
+	<circle style="fill:#FFFFFF;" cx="33.3" cy="33.3" r="32.7"/>
+	<g>
+		<polygon style="fill:#141A26;" points="8.8,24.2 8.8,38.1 16.6,38.1 16.6,36 10.8,36 10.8,24.2 		"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#141A26;" d="M23.8,28.3v5.5v0.1c0,0,0,1.1-0.6,1.7
+			c-0.4,0.4-0.9,0.6-1.6,0.6h-0.1c-0.7,0-1.3-0.2-1.6-0.6c-0.6-0.7-0.6-1.7-0.6-1.7v-5.6h-2v5.5c0,0.3,0,1.9,1.1,3.2
+			c0.8,0.8,1.8,1.2,3.1,1.2h0.1h0.1c0.9,0,1.6-0.4,2.2-0.8v0.8h2v-9.9h-0.1H23.8z"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#141A26;" d="M38.3,28.1h-0.1h-0.1c-1.2,0.1-2.1,0.8-2.9,1.5
+			c-0.1-0.1-0.2-0.2-0.3-0.3c-0.7-0.8-1.7-1.2-2.9-1.2h-0.1H32c-0.8,0.1-1.4,0.4-2,0.8v-0.6h-2v4.1v0.2v4.6v1h2v-1v-4.6v-0.2
+			c0-0.3,0.1-1.1,0.6-1.6c0.4-0.4,0.8-0.6,1.5-0.6c0.7,0,1.2,0.2,1.5,0.6c0.5,0.6,0.6,1.4,0.6,1.6v0.1v4.6v1h2v-5.6v-0.2
+			c0-0.3,0.1-1.1,0.6-1.6c0.4-0.4,0.8-0.6,1.5-0.6c0.7,0,1.2,0.2,1.5,0.6c0.6,0.7,0.6,1.7,0.6,1.7v0.1v5.6h2v-5.6
+			c0-0.3,0-1.9-1.1-3.2C40.5,28.6,39.5,28.2,38.3,28.1"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="43.6" y="33.1" width="14.2" height="9.3">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="43.6" y="33.1" width="14.2" height="9.3" id="SVGID_1_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter);">
+				<rect x="43.6" y="33.1" width="14.2" height="9.3"/>
+				<g style="enable-background:new    ;">
+					<rect x="43.6" y="33.1" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" width="14.2" height="9.3"/>
+				</g>
+			</g>
+		</mask>
+		<g style="mask:url(#SVGID_1_);">
+			<g>
+				<defs>
+					<rect id="SVGID_5_" x="43.6" y="33.1" width="14.2" height="9.3"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+				</clipPath>
+				<path style="clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#08B7C2;" d="M43.6,40.8c1.4,1,3.2,1.6,5.1,1.6
+					c5,0,9.1-4.2,9.1-9.3h-2.1c0,3.9-3.1,7.2-7,7.2c-1.4,0-2.8-0.5-3.9-1.2"/>
+			</g>
+		</g>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#141A26;" d="M48.7,30.1c1.6,0,3,1.4,3,3.1s-1.3,3.1-3,3.1s-3-1.4-3-3.1
+			C45.8,31.5,47.1,30.1,48.7,30.1 M48.7,38.3c2.8,0,5-2.3,5-5.2c0-2.9-2.2-5.2-5-5.2s-5,2.3-5,5.2C43.7,36,46,38.3,48.7,38.3"/>
+	</g>
+</g>
+</svg>

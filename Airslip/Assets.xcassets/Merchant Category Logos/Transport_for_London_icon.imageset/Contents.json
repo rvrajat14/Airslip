@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Transport_for_London_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<g>
+									<g>
+										<circle style="" cx="256" cy="256" r="256" fill="#f1f1f1" data-original="#ff583e" class=""/>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<path style="" d="M512,256c0-4.534-0.122-9.039-0.355-13.515l-96.159-96.159l-17.696,33.381l-76.478-76.478   l-11.129,6.73L256,55.777l6.913,128.648L72,369.116l138.925,138.925C225.558,510.641,240.62,512,256,512   C397.385,512,512,397.385,512,256z" fill="#f1f1f1" data-original="#e82e21" class=""/>
+	<g>
+		<circle style="" cx="139.5" cy="369.116" r="31.5" fill="#333940" data-original="#333940" class=""/>
+	</g>
+	<g>
+		<circle style="" cx="214" cy="369.116" r="31.5" fill="#333940" data-original="#333940" class=""/>
+	</g>
+	<g>
+		<path style="" d="M428.935,353.233H83.065v-172.35c0-28.243,22.896-51.139,51.139-51.139h243.592    c28.243,0,51.139,22.896,51.139,51.139V353.233z" fill="#ffffff" data-original="#ffffff" class=""/>
+	</g>
+	<g>
+		<path style="" d="M428.935,180.882c0-28.243-22.896-51.139-51.139-51.139H256v223.489h172.935V180.882z" fill="#e9edf5" data-original="#e9edf5" class=""/>
+	</g>
+	<g>
+		<rect x="292" y="199" style="" width="85" height="154.233" fill="#cdd2e1" data-original="#cdd2e1" class=""/>
+	</g>
+	<g>
+		<rect x="115" y="199" style="" width="153" height="68.868" fill="#cdd2e1" data-original="#cdd2e1" class=""/>
+	</g>
+	<g>
+		<rect x="256" y="199" style="" width="12" height="68.868" fill="#bec3d2" data-original="#bec3d2"/>
+	</g>
+	<g>
+		<polygon style="" points="256,55.777 276.182,96.672 321.312,103.229 288.656,135.061 296.365,180.008 256,158.787     215.635,180.008 223.344,135.061 190.688,103.229 235.818,96.672   " fill="#ffc200" data-original="#ffc200"/>
+	</g>
+	<g>
+		<polygon style="" points="255.905,55.97 235.818,96.672 190.688,103.229 223.344,135.061 215.635,180.008   " fill="#ffc200" data-original="#ffc200"/>
+		<polygon style="" points="256,158.787 296.365,180.008 288.656,135.061 321.312,103.229 276.182,96.672 256,55.777       " fill="#ff8b00" data-original="#ff8b00"/>
+	</g>
+	<g>
+		<rect x="72" y="337.349" style="" width="380" height="31.767" fill="#3f6199" data-original="#3f6199" class=""/>
+	</g>
+	<g>
+		<rect x="255.905" y="337.349" style="" width="196.095" height="31.767" fill="#2b4160" data-original="#2b4160"/>
+	</g>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</g></svg>

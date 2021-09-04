@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Costa_Coffee.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

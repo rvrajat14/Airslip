@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100px" height="100px" viewBox="0 0 119.9 119.9" style="enable-background:new 0 0 119.9 119.9;" xml:space="preserve">
+<g>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#191919;" d="M59.9,119.9C26.8,119.9,0,93,0,59.9C0,26.8,26.8,0,59.9,0
+		c33.1,0,59.9,26.8,59.9,59.9C119.9,93,93,119.9,59.9,119.9L59.9,119.9z"/>
+	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M102.1,44.4c-1.7-5.7-9.3-14.4-20.6-14.4H63.1l-9,54.2h18.4
+		c17.4,0,28.3-13.5,30.5-27C103.8,52.8,103.5,48.3,102.1,44.4 M90.1,57.2c-3.4,17.6-21.5,14.9-21.5,14.9l5-29.9
+		C73.5,42.1,93.7,38.9,90.1,57.2 M47.1,30c-0.1,0.8-4.9,39.5-23.2,42C23.5,72,23.2,72,21,72.2l-1.7,12.6c0,0,2,0,2.9,0.1
+		c4,0.2,16.2-0.3,26-16.6c5-8.2,9.1-20.4,11.8-38.3L47.1,30L47.1,30z"/>
+</g>
+</svg>

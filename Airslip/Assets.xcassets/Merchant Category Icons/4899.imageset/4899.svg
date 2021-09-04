@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 460 460" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+<g xmlns="http://www.w3.org/2000/svg" id="XMLID_1028_">
+	<path id="XMLID_1029_" style="" d="M230,0C102.974,0,0,102.974,0,230c0,105.886,71.559,195.045,168.95,221.793   L451.793,168.95C425.045,71.559,335.886,0,230,0z" fill="#f1f1f1" data-original="#da5b66" class=""/>
+	<path id="XMLID_70_" style="" d="M451.793,168.951l-69.765-69.765L159.81,315.287l0.455,23.356l-45.261,23.849   l-2.185-2.185l-17.678,17.678l73.809,73.809C188.394,457.133,208.861,460,230,460c127.025,0,230-102.974,230-230   C460,208.861,457.133,188.394,451.793,168.951z" fill="#f1f1f1" data-original="#d93722" class=""/>
+	
+		<rect id="XMLID_1030_" x="267.726" y="199.875" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 645.4926 217.3765)" style="" width="20" height="84.999" fill="#06384a" data-original="#06384a"/>
+	
+		<rect id="XMLID_1031_" x="207.623" y="139.771" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 500.3906 157.2728)" style="" width="20" height="84.999" fill="#084b63" data-original="#084b63"/>
+	<polygon id="XMLID_67_" style="" points="95.65,81.508 74.437,102.721 118.631,146.915 136.308,143.379    139.844,125.702 119.515,91.23  " fill="#419ebe" data-original="#419ebe" class=""/>
+	<polygon id="XMLID_66_" style="" points="138.076,39.081 116.863,60.294 126.586,84.159 161.057,104.489    178.735,100.953 182.27,83.275  " fill="#419ebe" data-original="#419ebe" class=""/>
+	<polygon id="XMLID_65_" style="" points="116.863,60.294 95.65,81.508 139.844,125.702 157.522,122.166    161.057,104.489  " fill="#82c8db" data-original="#82c8db"/>
+	<polygon id="XMLID_64_" style="" points="184.038,169.896 167.244,138.96 139.844,125.702 118.631,146.915    162.825,191.109  " fill="#146a8a" data-original="#146a8a" class=""/>
+	<polygon id="XMLID_63_" style="" points="226.464,127.47 182.27,83.275 161.057,104.489 174.315,131.889    205.251,148.683  " fill="#146a8a" data-original="#146a8a" class=""/>
+	
+		<rect id="XMLID_62_" x="141.298" y="122.19" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 197.5494 356.2082)" style="" width="62.499" height="30" fill="#419ebe" data-original="#419ebe" class=""/>
+	<polygon id="XMLID_61_" style="" points="290.104,275.962 268.891,297.175 313.085,341.369 330.763,337.834    334.298,320.156 321.04,292.756  " fill="#146a8a" data-original="#146a8a" class=""/>
+	<polygon id="XMLID_60_" style="" points="332.53,233.536 311.317,254.749 328.111,285.685 355.511,298.943    373.189,295.407 376.725,277.73  " fill="#146a8a" data-original="#146a8a" class=""/>
+	<polygon id="XMLID_59_" style="" points="311.317,254.749 290.104,275.962 334.298,320.156 351.976,316.621    355.511,298.943  " fill="#2089b0" data-original="#2089b0"/>
+	<polygon id="XMLID_58_" style="" points="378.492,364.35 368.77,340.485 334.298,320.156 313.085,341.369    357.279,385.564  " fill="#06384a" data-original="#06384a"/>
+	<polygon id="XMLID_57_" style="" points="420.919,321.924 376.725,277.73 355.511,298.943 375.841,333.414    399.706,343.137  " fill="#06384a" data-original="#06384a"/>
+	
+		<rect id="XMLID_56_" x="335.752" y="316.642" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 392.0044 825.658)" style="" width="62.499" height="30" fill="#146a8a" data-original="#146a8a" class=""/>
+	
+		<rect id="XMLID_55_" x="162.449" y="259.548" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 510.7159 337.5495)" style="" width="46" height="30" fill="#06384a" data-original="#06384a"/>
+	<polygon id="XMLID_54_" style="" points="382.028,99.185 360.815,77.972 332.53,77.972 350.208,109.792    382.028,127.47  " fill="#06384a" data-original="#06384a"/>
+	<polygon id="XMLID_53_" style="" points="332.53,77.972 297.175,113.327 321.924,138.076 353.744,120.398    357.279,102.721  " fill="#62b3cd" data-original="#62b3cd"/>
+	
+		<rect id="XMLID_52_" x="334.475" y="107.77" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 506.9754 475.5355)" style="" width="35" height="50" fill="#2089b0" data-original="#2089b0"/>
+	<polygon id="XMLID_51_" style="" points="290.104,92.114 162.825,219.393 201.716,258.284 265.355,208.787    328.995,131.005  " fill="#82c8db" data-original="#82c8db"/>
+	
+		<rect id="XMLID_50_" x="257.301" y="124.088" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 334.8027 566.8535)" style="" width="54.999" height="179.998" fill="#419ebe" data-original="#419ebe" class=""/>
+	
+		<rect id="XMLID_49_" x="83.674" y="350.305" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 423.2215 545.306)" style="" width="30" height="20" fill="#06384a" data-original="#06384a"/>
+	<polygon id="XMLID_48_" style="" points="111.468,337.743 128.445,305.523 110.751,296.2 86.902,341.46    102.721,357.279 116.863,357.279 116.863,343.137  " fill="#146a8a" data-original="#146a8a" class=""/>
+	<polygon id="XMLID_47_" style="" points="163.8,349.249 154.477,331.555 122.257,348.532 116.863,343.137    102.721,357.279 118.54,373.098  " fill="#06384a" data-original="#06384a"/>
+	<path id="XMLID_46_" style="" d="M40.69,235.462l91.924,91.924l33.588-19.445l19.445-33.588   C146.366,235.072,90.742,222.109,40.69,235.462z" fill="#ffffff" data-original="#ffffff"/>
+	<path id="XMLID_45_" style="" d="M185.647,274.353l-53.033,53.033l91.924,91.924   C237.891,369.258,224.928,313.634,185.647,274.353z" fill="#a3dde9" data-original="#a3dde9" class=""/>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+</g></svg>

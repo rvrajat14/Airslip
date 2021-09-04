@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 606.95 218.53" style="enable-background:new 0 0 606.95 218.53;" xml:space="preserve">
+<g id="Page-4">
+	<g id="Final-Skiddle-logo-2016" transform="translate(-126.000000, -184.000000)">
+		<path id="Fill-30" style="fill-rule:evenodd;clip-rule:evenodd;" d="M432.38,231.02c6.68,0,12.37,5.54,12.37,12.23
+			c0,6.54-5.69,12.09-12.37,12.09c-6.54,0-12.09-5.55-12.09-12.09C420.29,236.56,425.84,231.02,432.38,231.02L432.38,231.02z"/>
+		<path id="Fill-32" style="fill-rule:evenodd;clip-rule:evenodd;" d="M220.13,270.99l-30.22,17.45l-16.93-9.78l47.15-27.22V270.99z
+			 M206.75,317.57l16.4,9.47l-80.36,46.39v-18.94L206.75,317.57z M173.02,298.09l16.93,9.78l-47.15,27.22v-19.55L173.02,298.09z
+			 M156.17,268.96l-16.4-9.47l80.35-46.39v18.94L156.17,268.96z M236.93,184L126,248.04v22.9l30.22,17.45L126,305.83v96.7
+			l110.93-64.04v-22.9l-30.22-17.45l30.22-17.45V184z"/>
+		<path id="Fill-34" style="fill-rule:evenodd;clip-rule:evenodd;" d="M312.56,295.92c-2.53-0.64-5.09-1.13-7.55-1.58
+			c-9.36-1.72-17.63-2.81-17.63-8.43c0-3.12,2.34-7.02,11.39-7.02c7.8,0,13.42,2.96,17.78,6.86l10.77-13.1
+			c-7.18-6.08-17.79-9.99-29.33-9.99c-15.29,0-30.27,6.55-30.27,23.71c0,15.07,11.46,19.75,22.68,22.34
+			c2.26,0.52,4.51,0.96,6.65,1.38c9.05,1.72,14.35,2.96,14.35,7.64c0,4.21-4.68,5.93-11.23,5.93c-6.4,0-14.5-1.73-21.2-8.35
+			l-16.09,9.29c7.65,10.14,22.93,15.44,35.88,15.44c16.69,0,32.45-8.74,32.45-24.96C331.21,302.84,322.2,298.35,312.56,295.92"/>
+		<polygon id="Fill-36" style="fill-rule:evenodd;clip-rule:evenodd;" points="378.04,298.7 412.83,264.53 385.38,264.53 
+			359.17,291.52 359.17,235.83 339.2,235.83 339.2,338.49 359.29,338.49 359.32,308.53 389.12,338.49 417.05,338.49 		"/>
+		<g id="Clip-39">
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="422.52" y="264.53" width="19.97" height="73.95">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="422.52" y="264.53" width="19.97" height="73.95" id="mask-2_10_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter);">
+				<polygon id="path-1_10_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="-10,588.13 831.89,588.13 
+					831.89,-7.15 -10,-7.15 				"/>
+			</g>
+		</mask>
+		<polygon id="Fill-38" style="mask:url(#mask-2_10_);fill-rule:evenodd;clip-rule:evenodd;" points="422.52,338.49 442.49,338.49 
+			442.49,264.53 422.52,264.53 		"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="449.58" y="235.83" width="80.5" height="104.22">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="449.58" y="235.83" width="80.5" height="104.22" id="mask-2_9_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter_1_);">
+				<polygon id="path-1_9_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="-10,588.13 831.89,588.13 
+					831.89,-7.15 -10,-7.15 				"/>
+			</g>
+		</mask>
+		<path id="Fill-40" style="mask:url(#mask-2_9_);fill-rule:evenodd;clip-rule:evenodd;" d="M489.68,323.35
+			c-12.01,0-20.28-8.43-20.28-22.15c0-14.04,8.58-21.84,19.97-21.84c9.83,0,20.59,5.93,20.59,22
+			C509.96,316.18,500.76,323.35,489.68,323.35L489.68,323.35z M510.12,274.52c-4.68-7.64-13.42-11.86-24.03-11.86
+			c-18.41,0-36.51,12.95-36.51,38.54c0,25.9,18.57,38.85,37.29,38.85c10.61,0,18.1-4.21,23.4-10.61v9.05h19.81V235.83h-19.97V274.52
+			z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="536.69" y="235.83" width="80.5" height="104.22">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="536.69" y="235.83" width="80.5" height="104.22" id="mask-2_8_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter_2_);">
+				<polygon id="path-1_8_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="-10,588.13 831.89,588.13 
+					831.89,-7.15 -10,-7.15 				"/>
+			</g>
+		</mask>
+		<path id="Fill-41" style="mask:url(#mask-2_8_);fill-rule:evenodd;clip-rule:evenodd;" d="M576.78,323.35
+			c-12.01,0-20.28-8.43-20.28-22.15c0-14.04,8.58-21.84,19.97-21.84c9.83,0,20.59,5.93,20.59,22
+			C597.06,316.18,587.86,323.35,576.78,323.35L576.78,323.35z M597.22,274.52c-4.68-7.64-13.42-11.86-24.03-11.86
+			c-18.41,0-36.51,12.95-36.51,38.54c0,25.9,18.57,38.85,37.29,38.85c10.61,0,18.1-4.21,23.4-10.61v9.05h19.81V235.83h-19.97V274.52
+			z"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="624.99" y="235.83" width="41.24" height="104.22">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="624.99" y="235.83" width="41.24" height="104.22" id="mask-2_7_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter_3_);">
+				<polygon id="path-1_7_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="-10,588.13 831.89,588.13 
+					831.89,-7.15 -10,-7.15 				"/>
+			</g>
+		</mask>
+		<path id="Fill-42" style="mask:url(#mask-2_7_);fill-rule:evenodd;clip-rule:evenodd;" d="M656.45,322.91
+			c-0.75,0.18-1.52,0.29-2.28,0.29c-4.68,0-9.21-2.5-9.21-9.36v-78.01h-19.97v78.32c0,18.41,12.17,25.9,25.27,25.9
+			c5.42,0,11-1.39,15.96-3.7C662.08,332.51,658.8,327.99,656.45,322.91"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="660.88" y="262.66" width="72.08" height="77.38">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="660.88" y="262.66" width="72.08" height="77.38" id="mask-2_6_">
+			<g style="filter:url(#Adobe_OpacityMaskFilter_4_);">
+				<polygon id="path-1_6_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="-10,588.13 831.89,588.13 
+					831.89,-7.15 -10,-7.15 				"/>
+			</g>
+		</mask>
+		<path id="Fill-43" style="mask:url(#mask-2_6_);fill-rule:evenodd;clip-rule:evenodd;" d="M681.16,294.02
+			c1.25-8.42,7.33-14.51,16.85-14.51c8.74,0,15.13,5.15,16.07,14.51H681.16z M732.95,299.79c0-24.81-16.22-37.13-34.32-37.13
+			c-18.88,0-37.76,13.42-37.76,39c0,25.9,19.35,38.38,39,38.38c12.95,0,24.49-5.3,32.45-15.29l-12.01-12.01
+			c-4.99,6.55-12.17,9.83-20.28,9.83c-7.96,0-17.16-3.28-18.88-13.42h51.17C732.8,305.25,732.95,302.29,732.95,299.79L732.95,299.79
+			z"/>
+	</g>
+</g>
+</svg>

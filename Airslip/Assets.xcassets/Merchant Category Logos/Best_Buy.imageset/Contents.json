@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Best_Buy.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>466151125495-evpud92laguvvfieemvv9upk51mol5sd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.466151125495-evpud92laguvvfieemvv9upk51mol5sd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>466151125495-19684ke9gjhequ0gonhr8lch1reknm2k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsqtUzqcQprqH6F8l704gW74h8aqcWIr0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>466151125495</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.airslip.rnairslip</string>
+	<key>PROJECT_ID</key>
+	<string>airslip-5d0d2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>airslip-5d0d2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:466151125495:ios:19ccf7e1c570078bd93ef2</string>
+	<key>DATABASE_URL</key>
+	<string>https://airslip-5d0d2.firebaseio.com</string>
+</dict>
+</plist>

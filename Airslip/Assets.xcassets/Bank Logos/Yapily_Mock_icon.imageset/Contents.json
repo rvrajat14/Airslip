@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Yapily_Mock_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

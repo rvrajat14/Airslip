@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "AS_Watson_Group_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

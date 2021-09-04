@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<path style="fill:#E8E8E8;" d="M50,0c27.61,0,50,22.39,50,50s-22.39,50-50,50S0,77.61,0,50S22.39,0,50,0"/>
+	<path style="fill:#FFFFFF;" d="M50,1c27.06,0,49,21.94,49,49S77.06,99,50,99S1,77.06,1,50S22.94,1,50,1"/>
+	<g>
+		<polygon style="fill:#009286;" points="26.71,21.89 73.29,21.89 65.65,42.43 50,84.11 26.71,60.83 		"/>
+		<path style="fill:#009286;" d="M26.52,21.69h46.96v39.13c0,0-2.94,2.15-11.54,10.76S50,84.31,50,84.31L26.52,60.83V21.69z"/>
+		<polyline style="fill:#F3C000;" points="49.8,37.15 73.48,60.83 50,84.31 		"/>
+	</g>
+</g>
+</svg>

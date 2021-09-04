@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Empire_Company_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

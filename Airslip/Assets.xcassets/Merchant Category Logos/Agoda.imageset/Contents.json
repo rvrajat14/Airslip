@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Agoda.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Sky.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

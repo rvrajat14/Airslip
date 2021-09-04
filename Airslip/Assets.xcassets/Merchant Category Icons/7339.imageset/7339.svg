@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+<circle xmlns="http://www.w3.org/2000/svg" style="" cx="256" cy="256" r="256" fill="#f1f1f1" data-original="#ff6838" class=""/>
+<path xmlns="http://www.w3.org/2000/svg" style="" d="M512,256c0-27.95-4.495-54.846-12.775-80.025L383.25,60l-303,190l98.339,98.339L102,380.562  l130.34,130.34C240.132,511.616,248.021,512,256,512C397.385,512,512,397.385,512,256z" fill="#f1f1f1" data-original="#ae4e32" class=""/>
+<rect xmlns="http://www.w3.org/2000/svg" x="102" y="146.5" style="" width="308" height="61.75" fill="#1a1a1a" data-original="#1a1a1a" class=""/>
+<rect xmlns="http://www.w3.org/2000/svg" x="255.95" y="146.5" width="154.05" height="61.75" fill="#000000" data-original="#000000" style=""/>
+<path xmlns="http://www.w3.org/2000/svg" style="" d="M372,396H140c-30.1,0-54.5-24.4-54.5-54.5V194h341v147.5C426.5,371.6,402.1,396,372,396z" fill="#4d4d4d" data-original="#4d4d4d" class=""/>
+<path xmlns="http://www.w3.org/2000/svg" style="" d="M255.952,194v202H372c30.1,0,54.5-24.4,54.5-54.5V194H255.952z" fill="#333333" data-original="#333333" class=""/>
+<g xmlns="http://www.w3.org/2000/svg">
+	<circle style="" cx="120.7" cy="314.49" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="159.36" cy="314.49" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="198.01" cy="314.49" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="236.67" cy="314.49" r="12.1" fill="#808080" data-original="#808080"/>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<circle style="" cx="274.99" cy="314.49" r="12.1" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="313.65" cy="314.49" r="12.1" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="352.31" cy="314.49" r="12.1" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="390.96" cy="314.49" r="12.1" fill="#666666" data-original="#666666"/>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<circle style="" cx="140.03" cy="271.29" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="178.69" cy="271.29" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="217.34" cy="271.29" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="256" cy="271.29" r="12.1" fill="#808080" data-original="#808080"/>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<path style="" d="M256,259.198c-0.016,0-0.031,0.002-0.048,0.002v24.186c0.016,0,0.031,0.002,0.048,0.002   c6.68,0,12.095-5.415,12.095-12.095C268.095,264.614,262.68,259.198,256,259.198z" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="294.32" cy="271.29" r="12.1" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="332.98" cy="271.29" r="12.1" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="371.63" cy="271.29" r="12.1" fill="#666666" data-original="#666666"/>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<circle style="" cx="140.03" cy="357.69" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="178.69" cy="357.69" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="217.34" cy="357.69" r="12.1" fill="#808080" data-original="#808080"/>
+	<circle style="" cx="256" cy="357.69" r="12.1" fill="#808080" data-original="#808080"/>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<path style="" d="M256,345.595c-0.016,0-0.031,0.002-0.048,0.002v24.186c0.016,0,0.031,0.002,0.048,0.002   c6.68,0,12.095-5.415,12.095-12.095C268.095,351.01,262.68,345.595,256,345.595z" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="294.66" cy="357.69" r="12.1" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="333.31" cy="357.69" r="12.1" fill="#666666" data-original="#666666"/>
+	<circle style="" cx="371.63" cy="357.69" r="12.1" fill="#666666" data-original="#666666"/>
+</g>
+<rect xmlns="http://www.w3.org/2000/svg" x="128.75" y="60" style="" width="254.5" height="134" fill="#ffffff" data-original="#ffffff" class=""/>
+<rect xmlns="http://www.w3.org/2000/svg" x="255.95" y="60" style="" width="127.3" height="134" fill="#e0e0e0" data-original="#e0e0e0"/>
+<rect xmlns="http://www.w3.org/2000/svg" x="108.61" y="194" style="" width="294.79" height="36.5" fill="#333333" data-original="#333333" class=""/>
+<rect xmlns="http://www.w3.org/2000/svg" x="255.95" y="194" style="" width="147.44" height="36.5" fill="#1a1a1a" data-original="#1a1a1a" class=""/>
+<rect xmlns="http://www.w3.org/2000/svg" x="80.25" y="166.5" style="" width="32.5" height="83.5" fill="#333333" data-original="#333333" class=""/>
+<rect xmlns="http://www.w3.org/2000/svg" x="399.25" y="166.5" style="" width="32.5" height="83.5" fill="#1a1a1a" data-original="#1a1a1a" class=""/>
+<rect xmlns="http://www.w3.org/2000/svg" x="141.51" y="154.33" style="" width="228.97" height="15.333" fill="#999999" data-original="#999999"/>
+<rect xmlns="http://www.w3.org/2000/svg" x="255.95" y="154.33" style="" width="114.53" height="15.333" fill="#808080" data-original="#808080"/>
+<rect xmlns="http://www.w3.org/2000/svg" x="141.51" y="124.83" style="" width="87.92" height="15.333" fill="#999999" data-original="#999999"/>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+</g></svg>

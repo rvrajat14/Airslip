@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Beards_&_Daisies_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

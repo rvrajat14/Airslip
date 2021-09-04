@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<g>
+		<path style="fill:#E8E8E8;" d="M50,0c27.61,0,50,22.39,50,50s-22.39,50-50,50S0,77.61,0,50S22.39,0,50,0"/>
+		<path style="fill:#FFFFFF;" d="M50,1c27.06,0,49,21.94,49,49S77.06,99,50,99S1,77.06,1,50S22.94,1,50,1"/>
+	</g>
+	<g id="Page-4">
+		<g id="Final-Skiddle-logo-2016" transform="translate(-126.000000, -184.000000)">
+			<path id="Fill-30" style="fill-rule:evenodd;clip-rule:evenodd;" d="M176.36,226.31c0.83,0,1.53,0.69,1.53,1.51
+				c0,0.81-0.7,1.49-1.53,1.49c-0.81,0-1.49-0.69-1.49-1.49C174.87,226.99,175.55,226.31,176.36,226.31L176.36,226.31z"/>
+			<path id="Fill-32" style="fill-rule:evenodd;clip-rule:evenodd;" d="M150.13,231.25l-3.73,2.16l-2.09-1.21l5.83-3.36V231.25z
+				 M148.48,237l2.03,1.17l-9.93,5.73v-2.34L148.48,237z M144.31,234.6l2.09,1.21l-5.83,3.36v-2.42L144.31,234.6z M142.23,231
+				l-2.03-1.17l9.93-5.73v2.34L142.23,231z M152.21,220.5l-13.71,7.91v2.83l3.73,2.16l-3.73,2.16v11.95l13.71-7.91v-2.83l-3.73-2.16
+				l3.73-2.16V220.5z"/>
+			<path id="Fill-34" style="fill-rule:evenodd;clip-rule:evenodd;" d="M161.55,234.33c-0.31-0.08-0.63-0.14-0.93-0.2
+				c-1.16-0.21-2.18-0.35-2.18-1.04c0-0.39,0.29-0.87,1.41-0.87c0.96,0,1.66,0.37,2.2,0.85l1.33-1.62c-0.89-0.75-2.2-1.23-3.62-1.23
+				c-1.89,0-3.74,0.81-3.74,2.93c0,1.86,1.42,2.44,2.8,2.76c0.28,0.06,0.56,0.12,0.82,0.17c1.12,0.21,1.77,0.37,1.77,0.94
+				c0,0.52-0.58,0.73-1.39,0.73c-0.79,0-1.79-0.21-2.62-1.03l-1.99,1.15c0.94,1.25,2.83,1.91,4.43,1.91c2.06,0,4.01-1.08,4.01-3.08
+				C163.86,235.18,162.74,234.63,161.55,234.33"/>
+			<polygon id="Fill-36" style="fill-rule:evenodd;clip-rule:evenodd;" points="169.64,234.67 173.94,230.45 170.55,230.45 
+				167.31,233.78 167.31,226.9 164.84,226.9 164.84,239.59 167.33,239.59 167.33,235.89 171.01,239.59 174.46,239.59 			"/>
+			<g id="Clip-39">
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="175.14" y="230.45" width="2.47" height="9.14">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="175.14" y="230.45" width="2.47" height="9.14" id="mask-2_5_">
+				<g style="filter:url(#Adobe_OpacityMaskFilter);">
+					<polygon id="path-1_5_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="121.7,270.44 225.73,270.44 
+						225.73,196.88 121.7,196.88 					"/>
+				</g>
+			</mask>
+			<polygon id="Fill-38" style="mask:url(#mask-2_5_);fill-rule:evenodd;clip-rule:evenodd;" points="175.14,239.59 177.61,239.59 
+				177.61,230.45 175.14,230.45 			"/>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="178.48" y="226.9" width="9.95" height="12.88">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="178.48" y="226.9" width="9.95" height="12.88" id="mask-2_4_">
+				<g style="filter:url(#Adobe_OpacityMaskFilter_1_);">
+					<polygon id="path-1_4_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="121.7,270.44 225.73,270.44 
+						225.73,196.88 121.7,196.88 					"/>
+				</g>
+			</mask>
+			<path id="Fill-40" style="mask:url(#mask-2_4_);fill-rule:evenodd;clip-rule:evenodd;" d="M183.44,237.72
+				c-1.48,0-2.51-1.04-2.51-2.74c0-1.74,1.06-2.7,2.47-2.7c1.21,0,2.54,0.73,2.54,2.72C185.95,236.83,184.81,237.72,183.44,237.72
+				L183.44,237.72z M185.96,231.68c-0.58-0.94-1.66-1.47-2.97-1.47c-2.27,0-4.51,1.6-4.51,4.76c0,3.2,2.29,4.8,4.61,4.8
+				c1.31,0,2.24-0.52,2.89-1.31v1.12h2.45V226.9h-2.47V231.68z"/>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="189.25" y="226.9" width="9.95" height="12.88">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="189.25" y="226.9" width="9.95" height="12.88" id="mask-2_3_">
+				<g style="filter:url(#Adobe_OpacityMaskFilter_2_);">
+					<polygon id="path-1_3_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="121.7,270.44 225.73,270.44 
+						225.73,196.88 121.7,196.88 					"/>
+				</g>
+			</mask>
+			<path id="Fill-41" style="mask:url(#mask-2_3_);fill-rule:evenodd;clip-rule:evenodd;" d="M194.2,237.72
+				c-1.48,0-2.51-1.04-2.51-2.74c0-1.74,1.06-2.7,2.47-2.7c1.21,0,2.54,0.73,2.54,2.72C196.71,236.83,195.57,237.72,194.2,237.72
+				L194.2,237.72z M196.73,231.68c-0.58-0.94-1.66-1.47-2.97-1.47c-2.27,0-4.51,1.6-4.51,4.76c0,3.2,2.29,4.8,4.61,4.8
+				c1.31,0,2.24-0.52,2.89-1.31v1.12h2.45V226.9h-2.47V231.68z"/>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="200.16" y="226.9" width="5.1" height="12.88">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="200.16" y="226.9" width="5.1" height="12.88" id="mask-2_2_">
+				<g style="filter:url(#Adobe_OpacityMaskFilter_3_);">
+					<polygon id="path-1_2_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="121.7,270.44 225.73,270.44 
+						225.73,196.88 121.7,196.88 					"/>
+				</g>
+			</mask>
+			<path id="Fill-42" style="mask:url(#mask-2_2_);fill-rule:evenodd;clip-rule:evenodd;" d="M204.05,237.66
+				c-0.09,0.02-0.19,0.04-0.28,0.04c-0.58,0-1.14-0.31-1.14-1.16v-9.64h-2.47v9.68c0,2.27,1.5,3.2,3.12,3.2
+				c0.67,0,1.36-0.17,1.97-0.46C204.74,238.85,204.34,238.29,204.05,237.66"/>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="204.59" y="230.22" width="8.91" height="9.56">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="204.59" y="230.22" width="8.91" height="9.56" id="mask-2_1_">
+				<g style="filter:url(#Adobe_OpacityMaskFilter_4_);">
+					<polygon id="path-1_1_" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="121.7,270.44 225.73,270.44 
+						225.73,196.88 121.7,196.88 					"/>
+				</g>
+			</mask>
+			<path id="Fill-43" style="mask:url(#mask-2_1_);fill-rule:evenodd;clip-rule:evenodd;" d="M207.1,234.09
+				c0.15-1.04,0.91-1.79,2.08-1.79c1.08,0,1.87,0.64,1.99,1.79H207.1z M213.5,234.81c0-3.07-2-4.59-4.24-4.59
+				c-2.33,0-4.67,1.66-4.67,4.82c0,3.2,2.39,4.74,4.82,4.74c1.6,0,3.03-0.66,4.01-1.89l-1.48-1.48c-0.62,0.81-1.5,1.21-2.51,1.21
+				c-0.98,0-2.12-0.4-2.33-1.66h6.32C213.48,235.48,213.5,235.12,213.5,234.81L213.5,234.81z"/>
+		</g>
+	</g>
+</g>
+</svg>

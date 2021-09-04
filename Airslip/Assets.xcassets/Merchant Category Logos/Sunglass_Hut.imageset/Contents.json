@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Sunglass_Hut.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

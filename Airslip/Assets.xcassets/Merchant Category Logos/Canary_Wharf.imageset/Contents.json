@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Canary_Wharf.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

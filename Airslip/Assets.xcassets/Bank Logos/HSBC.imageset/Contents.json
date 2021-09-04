@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "HSBC.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "H&M_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

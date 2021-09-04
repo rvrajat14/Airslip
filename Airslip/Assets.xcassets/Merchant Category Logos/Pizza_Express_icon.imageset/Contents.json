@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Pizza_Express_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

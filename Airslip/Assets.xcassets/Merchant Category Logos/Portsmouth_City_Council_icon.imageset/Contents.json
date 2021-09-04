@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Portsmouth_City_Council_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

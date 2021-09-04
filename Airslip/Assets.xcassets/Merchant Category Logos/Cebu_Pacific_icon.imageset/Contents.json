@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Cebu_Pacific_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

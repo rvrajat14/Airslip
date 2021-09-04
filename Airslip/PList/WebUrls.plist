@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseUrl</key>
+	<string>https://dev-app.airslip.com</string>
+	<key>bankTransactionsUrl</key>
+	<string>https://d973c1806a33.ngrok.io</string>
+	<key>authenticationUrl</key>
+	<string>https://9022cffb8bae.ngrok.io</string>
+	<key>merchantDatabaseUrl</key>
+	<string></string>
+</dict>
+</plist>
